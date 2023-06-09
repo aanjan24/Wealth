@@ -1,0 +1,12 @@
+C:\Users\chandan.yadav\source\repos\WebApi\Data\bin\Debug\net6.0\Data.deps.json
+C:\Users\chandan.yadav\source\repos\WebApi\Data\bin\Debug\net6.0\Data.dll
+C:\Users\chandan.yadav\source\repos\WebApi\Data\bin\Debug\net6.0\Data.pdb
+C:\Users\chandan.yadav\source\repos\WebApi\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\Users\chandan.yadav\source\repos\WebApi\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chandan.yadav\source\repos\WebApi\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\Users\chandan.yadav\source\repos\WebApi\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\Users\chandan.yadav\source\repos\WebApi\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\chandan.yadav\source\repos\WebApi\Data\obj\Debug\net6.0\Data.dll
+C:\Users\chandan.yadav\source\repos\WebApi\Data\obj\Debug\net6.0\refint\Data.dll
+C:\Users\chandan.yadav\source\repos\WebApi\Data\obj\Debug\net6.0\Data.pdb
+C:\Users\chandan.yadav\source\repos\WebApi\Data\obj\Debug\net6.0\ref\Data.dll
