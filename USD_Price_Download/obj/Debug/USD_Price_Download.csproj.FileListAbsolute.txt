@@ -1,0 +1,102 @@
+D:\mamisha\USD_Price_Download\USD_Price_Download\obj\Debug\USD_Price_Download.csprojAssemblyReference.cache
+D:\mamisha\USD_Price_Download\USD_Price_Download\obj\Debug\USD_Price_Download.csproj.CoreCompileInputs.cache
+D:\mamisha\USD_Price_Download\USD_Price_Download\obj\Debug\USD_Price_Download.exe.config
+D:\Ashok-Job-Bkps\New folder (2)\New folder (2)\USD_Price_Download\USD_Price_Download\obj\Debug\USD_Price_Download.csproj.CoreCompileInputs.cache
+D:\Ashok-Job-Bkps\New folder (2)\New folder (2)\USD_Price_Download\USD_Price_Download\obj\Debug\USD_Price_Download.exe.config
+D:\Ashok-Job-Bkps\New folder (2)\New folder (2)\USD_Price_Download\USD_Price_Download\bin\Debug\USD_Price_Download.exe.config
+D:\Ashok-Job-Bkps\New folder (2)\New folder (2)\USD_Price_Download\USD_Price_Download\bin\Debug\USD_Price_Download.exe
+D:\Ashok-Job-Bkps\New folder (2)\New folder (2)\USD_Price_Download\USD_Price_Download\bin\Debug\USD_Price_Download.pdb
+D:\Ashok-Job-Bkps\New folder (2)\New folder (2)\USD_Price_Download\USD_Price_Download\bin\Debug\Microsoft.ApplicationBlocks.ExceptionManagement.dll
+D:\Ashok-Job-Bkps\New folder (2)\New folder (2)\USD_Price_Download\USD_Price_Download\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Ashok-Job-Bkps\New folder (2)\New folder (2)\USD_Price_Download\USD_Price_Download\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.SqlCe.dll
+D:\Ashok-Job-Bkps\New folder (2)\New folder (2)\USD_Price_Download\USD_Price_Download\bin\Debug\Microsoft.SqlServer.IntegrationServices.Build.dll
+D:\Ashok-Job-Bkps\New folder (2)\New folder (2)\USD_Price_Download\USD_Price_Download\bin\Debug\Microsoft.SQLServer.ManagedDTS.dll
+D:\Ashok-Job-Bkps\New folder (2)\New folder (2)\USD_Price_Download\USD_Price_Download\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\Ashok-Job-Bkps\New folder (2)\New folder (2)\USD_Price_Download\USD_Price_Download\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\Ashok-Job-Bkps\New folder (2)\New folder (2)\USD_Price_Download\USD_Price_Download\bin\Debug\WebDriver.dll
+D:\Ashok-Job-Bkps\New folder (2)\New folder (2)\USD_Price_Download\USD_Price_Download\bin\Debug\WebDriver.Support.dll
+D:\Ashok-Job-Bkps\New folder (2)\New folder (2)\USD_Price_Download\USD_Price_Download\bin\Debug\Microsoft.SqlServer.PipelineHost.dll
+D:\Ashok-Job-Bkps\New folder (2)\New folder (2)\USD_Price_Download\USD_Price_Download\bin\Debug\Microsoft.SqlServer.DTSPipelineWrap.dll
+D:\Ashok-Job-Bkps\New folder (2)\New folder (2)\USD_Price_Download\USD_Price_Download\obj\Debug\USD_Price_Download.csproj.CopyComplete
+D:\Ashok-Job-Bkps\New folder (2)\New folder (2)\USD_Price_Download\USD_Price_Download\obj\Debug\USD_Price_Download.exe
+D:\Ashok-Job-Bkps\New folder (2)\New folder (2)\USD_Price_Download\USD_Price_Download\obj\Debug\USD_Price_Download.pdb
+D:\Ashok-Job-Bkps\New folder (2)\New folder (2)\USD_Price_Download\USD_Price_Download\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Ashok-Job-Bkps\New folder (2)\New folder (2)\USD_Price_Download\USD_Price_Download\obj\Debug\USD_Price_Download.csproj.AssemblyReference.cache
+E:\USD_Price_Download\USD_Price_Download\bin\Debug\USD_Price_Download.exe.config
+E:\USD_Price_Download\USD_Price_Download\bin\Debug\USD_Price_Download.exe
+E:\USD_Price_Download\USD_Price_Download\bin\Debug\USD_Price_Download.pdb
+E:\USD_Price_Download\USD_Price_Download\bin\Debug\Microsoft.ApplicationBlocks.ExceptionManagement.dll
+E:\USD_Price_Download\USD_Price_Download\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\USD_Price_Download\USD_Price_Download\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\USD_Price_Download\USD_Price_Download\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.SqlCe.dll
+E:\USD_Price_Download\USD_Price_Download\bin\Debug\Microsoft.SqlServer.IntegrationServices.Build.dll
+E:\USD_Price_Download\USD_Price_Download\bin\Debug\Microsoft.SQLServer.ManagedDTS.dll
+E:\USD_Price_Download\USD_Price_Download\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+E:\USD_Price_Download\USD_Price_Download\bin\Debug\ThoughtWorks.Selenium.Core.dll
+E:\USD_Price_Download\USD_Price_Download\bin\Debug\WebDriver.dll
+E:\USD_Price_Download\USD_Price_Download\bin\Debug\WebDriver.Support.dll
+E:\USD_Price_Download\USD_Price_Download\bin\Debug\Microsoft.SqlServer.PipelineHost.dll
+E:\USD_Price_Download\USD_Price_Download\bin\Debug\Microsoft.SqlServer.DTSPipelineWrap.dll
+E:\USD_Price_Download\USD_Price_Download\obj\Debug\USD_Price_Download.csproj.AssemblyReference.cache
+E:\USD_Price_Download\USD_Price_Download\obj\Debug\USD_Price_Download.exe.config
+E:\USD_Price_Download\USD_Price_Download\obj\Debug\USD_Price_Download.csproj.CoreCompileInputs.cache
+E:\USD_Price_Download\USD_Price_Download\obj\Debug\USD_Price_Download.csproj.CopyComplete
+E:\USD_Price_Download\USD_Price_Download\obj\Debug\USD_Price_Download.exe
+E:\USD_Price_Download\USD_Price_Download\obj\Debug\USD_Price_Download.pdb
+C:\Users\Ampsys\Desktop\USD_Price_Download\USD_Price_Download\obj\Debug\USD_Price_Download.csproj.AssemblyReference.cache
+C:\Users\Ampsys\Desktop\USD_Price_Download\USD_Price_Download\obj\Debug\USD_Price_Download.exe.config
+C:\Users\Ampsys\Desktop\USD_Price_Download\USD_Price_Download\obj\Debug\USD_Price_Download.csproj.CoreCompileInputs.cache
+C:\Users\Ampsys\Desktop\USD_Price_Download\USD_Price_Download\obj\Debug\USD_Price_Download.exe
+C:\Users\Ampsys\Desktop\USD_Price_Download\USD_Price_Download\obj\Debug\USD_Price_Download.pdb
+C:\Users\Ampsys\Desktop\USD_Price_Download\USD_Price_Download\bin\Debug\USD_Price_Download.exe.config
+C:\Users\Ampsys\Desktop\USD_Price_Download\USD_Price_Download\bin\Debug\USD_Price_Download.exe
+C:\Users\Ampsys\Desktop\USD_Price_Download\USD_Price_Download\bin\Debug\USD_Price_Download.pdb
+C:\Users\Ampsys\Desktop\USD_Price_Download\USD_Price_Download\bin\Debug\Microsoft.ApplicationBlocks.ExceptionManagement.dll
+C:\Users\Ampsys\Desktop\USD_Price_Download\USD_Price_Download\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Ampsys\Desktop\USD_Price_Download\USD_Price_Download\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Ampsys\Desktop\USD_Price_Download\USD_Price_Download\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.SqlCe.dll
+C:\Users\Ampsys\Desktop\USD_Price_Download\USD_Price_Download\bin\Debug\Microsoft.SqlServer.IntegrationServices.Build.dll
+C:\Users\Ampsys\Desktop\USD_Price_Download\USD_Price_Download\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\Ampsys\Desktop\USD_Price_Download\USD_Price_Download\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\Ampsys\Desktop\USD_Price_Download\USD_Price_Download\bin\Debug\WebDriver.dll
+C:\Users\Ampsys\Desktop\USD_Price_Download\USD_Price_Download\bin\Debug\WebDriver.Support.dll
+C:\Users\Ampsys\Desktop\USD_Price_Download\USD_Price_Download\obj\Debug\USD_Price_Download.csproj.CopyComplete
+E:\Win-Werp_Upgraded-Jobs-2021\Updated USD Price Job\USD_Price_Download\USD_Price_Download\bin\Debug\USD_Price_Download.exe.config
+E:\Win-Werp_Upgraded-Jobs-2021\Updated USD Price Job\USD_Price_Download\USD_Price_Download\bin\Debug\USD_Price_Download.exe
+E:\Win-Werp_Upgraded-Jobs-2021\Updated USD Price Job\USD_Price_Download\USD_Price_Download\bin\Debug\USD_Price_Download.pdb
+E:\Win-Werp_Upgraded-Jobs-2021\Updated USD Price Job\USD_Price_Download\USD_Price_Download\bin\Debug\Microsoft.ApplicationBlocks.ExceptionManagement.dll
+E:\Win-Werp_Upgraded-Jobs-2021\Updated USD Price Job\USD_Price_Download\USD_Price_Download\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Win-Werp_Upgraded-Jobs-2021\Updated USD Price Job\USD_Price_Download\USD_Price_Download\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\Win-Werp_Upgraded-Jobs-2021\Updated USD Price Job\USD_Price_Download\USD_Price_Download\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.SqlCe.dll
+E:\Win-Werp_Upgraded-Jobs-2021\Updated USD Price Job\USD_Price_Download\USD_Price_Download\bin\Debug\Microsoft.SqlServer.IntegrationServices.Build.dll
+E:\Win-Werp_Upgraded-Jobs-2021\Updated USD Price Job\USD_Price_Download\USD_Price_Download\bin\Debug\Microsoft.SQLServer.ManagedDTS.dll
+E:\Win-Werp_Upgraded-Jobs-2021\Updated USD Price Job\USD_Price_Download\USD_Price_Download\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+E:\Win-Werp_Upgraded-Jobs-2021\Updated USD Price Job\USD_Price_Download\USD_Price_Download\bin\Debug\ThoughtWorks.Selenium.Core.dll
+E:\Win-Werp_Upgraded-Jobs-2021\Updated USD Price Job\USD_Price_Download\USD_Price_Download\bin\Debug\WebDriver.dll
+E:\Win-Werp_Upgraded-Jobs-2021\Updated USD Price Job\USD_Price_Download\USD_Price_Download\bin\Debug\WebDriver.Support.dll
+E:\Win-Werp_Upgraded-Jobs-2021\Updated USD Price Job\USD_Price_Download\USD_Price_Download\bin\Debug\Microsoft.SqlServer.PipelineHost.dll
+E:\Win-Werp_Upgraded-Jobs-2021\Updated USD Price Job\USD_Price_Download\USD_Price_Download\bin\Debug\Microsoft.SqlServer.DTSPipelineWrap.dll
+E:\Win-Werp_Upgraded-Jobs-2021\Updated USD Price Job\USD_Price_Download\USD_Price_Download\obj\Debug\USD_Price_Download.csprojAssemblyReference.cache
+E:\Win-Werp_Upgraded-Jobs-2021\Updated USD Price Job\USD_Price_Download\USD_Price_Download\obj\Debug\USD_Price_Download.exe.config
+E:\Win-Werp_Upgraded-Jobs-2021\Updated USD Price Job\USD_Price_Download\USD_Price_Download\obj\Debug\USD_Price_Download.csproj.CoreCompileInputs.cache
+E:\Win-Werp_Upgraded-Jobs-2021\Updated USD Price Job\USD_Price_Download\USD_Price_Download\obj\Debug\USD_Price_Download.csproj.CopyComplete
+E:\Win-Werp_Upgraded-Jobs-2021\Updated USD Price Job\USD_Price_Download\USD_Price_Download\obj\Debug\USD_Price_Download.exe
+E:\Win-Werp_Upgraded-Jobs-2021\Updated USD Price Job\USD_Price_Download\USD_Price_Download\obj\Debug\USD_Price_Download.pdb
+C:\Users\aanja\Desktop\New folder (4)\USD_Price_Download\USD_Price_Download\USD_Price_Download\obj\Debug\USD_Price_Download.csproj.AssemblyReference.cache
+C:\Users\aanja\Desktop\New folder (4)\USD_Price_Download\USD_Price_Download\USD_Price_Download\obj\Debug\USD_Price_Download.exe.config
+C:\Users\aanja\Desktop\New folder (4)\USD_Price_Download\USD_Price_Download\USD_Price_Download\obj\Debug\USD_Price_Download.csproj.CoreCompileInputs.cache
+C:\Users\aanja\Desktop\New folder (4)\USD_Price_Download\USD_Price_Download\USD_Price_Download\obj\Debug\USD_Price_Download.exe
+C:\Users\aanja\Desktop\New folder (4)\USD_Price_Download\USD_Price_Download\USD_Price_Download\obj\Debug\USD_Price_Download.pdb
+C:\Users\aanja\Desktop\New folder (4)\USD_Price_Download\USD_Price_Download\USD_Price_Download\bin\Debug\USD_Price_Download.exe.config
+C:\Users\aanja\Desktop\New folder (4)\USD_Price_Download\USD_Price_Download\USD_Price_Download\bin\Debug\USD_Price_Download.exe
+C:\Users\aanja\Desktop\New folder (4)\USD_Price_Download\USD_Price_Download\USD_Price_Download\bin\Debug\USD_Price_Download.pdb
+C:\Users\aanja\Desktop\New folder (4)\USD_Price_Download\USD_Price_Download\USD_Price_Download\bin\Debug\Microsoft.ApplicationBlocks.ExceptionManagement.dll
+C:\Users\aanja\Desktop\New folder (4)\USD_Price_Download\USD_Price_Download\USD_Price_Download\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\aanja\Desktop\New folder (4)\USD_Price_Download\USD_Price_Download\USD_Price_Download\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\aanja\Desktop\New folder (4)\USD_Price_Download\USD_Price_Download\USD_Price_Download\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.SqlCe.dll
+C:\Users\aanja\Desktop\New folder (4)\USD_Price_Download\USD_Price_Download\USD_Price_Download\bin\Debug\Microsoft.SqlServer.IntegrationServices.Build.dll
+C:\Users\aanja\Desktop\New folder (4)\USD_Price_Download\USD_Price_Download\USD_Price_Download\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\aanja\Desktop\New folder (4)\USD_Price_Download\USD_Price_Download\USD_Price_Download\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\aanja\Desktop\New folder (4)\USD_Price_Download\USD_Price_Download\USD_Price_Download\bin\Debug\WebDriver.dll
+C:\Users\aanja\Desktop\New folder (4)\USD_Price_Download\USD_Price_Download\USD_Price_Download\bin\Debug\WebDriver.Support.dll
+C:\Users\aanja\Desktop\New folder (4)\USD_Price_Download\USD_Price_Download\USD_Price_Download\obj\Debug\USD_Price_Download.csproj.CopyComplete
